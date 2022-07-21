@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+/* Utils */
+
+.flex {
+    display: flex;
+}
+
+.align-cc {
+    align-items: center;
+}
+
+.space-between {
+    justify-content: space-between;
+}
+
+.p-1 {
+    padding: 1rem;
+}
+
+.pl-2 {
+    padding: 1.5rem;
+}
+
+.ml-3 {
+    margin: 2rem;
+}
+
+.self-right {
+    justify-self: end;
+}
+
+/* Styles */
+
+.header-container {
+    height: 64px;
+}
