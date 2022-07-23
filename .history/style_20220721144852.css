@@ -65,10 +65,6 @@ ul {
     font-size: 48px;
 }
 
-.text-p-base {
-    font-size: 16px;
-}
-
 /* Styles */
 
 .header-container {
@@ -182,8 +178,4 @@ ul {
     height: 56px;
     padding-left: 24px;
     padding-right: 24px;
-}
-
-.organization {
-    max-width: 690px;
 }
